@@ -2,7 +2,7 @@
 
 A white Atom syntax theme.
 
-![Alpha Title] (http://i.imgur.com/xnPlyV7.png)
+![Alpha Title](http://i.imgur.com/xnPlyV7.png)
 
 ### HTML
 ![HTML Preview](http://i.imgur.com/t9wGWU0.png)
@@ -16,4 +16,4 @@ A white Atom syntax theme.
 ![CS Preview](http://i.imgur.com/5TyyBU3.png)
 ---
 
-[Alpha] (https://atom.io/themes/alpha-syntax) : [Beta] (https://atom.io/themes/beta-syntax)
+[Alpha](https://atom.io/themes/alpha-syntax) : [Beta](https://atom.io/themes/beta-syntax)
